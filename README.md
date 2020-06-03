@@ -2,7 +2,7 @@
 ## Introduction
 This app is a crypto tracker, generates useful information in real time, such as the value of your favourite coins, balances and  updated graphics.
 
-![](./docu/intro.png)
+![](./docu/mockups/intro.png)
 
 ## Functional Description
 
